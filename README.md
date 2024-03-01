@@ -1,0 +1,1 @@
+Develop a weather forecast widget that displays the current weather conditions and a 5-day forecast for a specified location. Utilize a weather API (e.g., OpenWeatherMap) to fetch weather data and present it in a visually appealing manner using HTML, CSS, and JavaScript. Consider incorporating icons and animations to enhance the user experience.
